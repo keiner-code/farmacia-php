@@ -1,0 +1,34 @@
+.tabla {
+  margin: auto;
+  width: 20em;
+  height: 30em;
+  border-radius: 5%;
+  background: radial-gradient(rgba(30, 10, 100, 0.7), rgba(120, 40, 140, 0.5), rgba(30, 60, 160, 0.5));
+}
+
+.tabla .titulo {
+  color: white;
+  padding-top: 1em;
+  text-align: center;
+}
+
+.tabla .division {
+  margin: 10em 2em;
+  text-align: center;
+}
+
+.tabla td {
+  padding: 0.8em 0;
+}
+
+.tabla label {
+  padding: 0 .5em;
+  color: #3264fa;
+}
+
+.tabla input {
+  border: none;
+  border-radius: 5%;
+  padding: .4em;
+}
+/*# sourceMappingURL=estilo.css.map */

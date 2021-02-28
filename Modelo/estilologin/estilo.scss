@@ -1,0 +1,32 @@
+.tabla{
+    margin: auto;
+    width: 20em;
+    height: 30em;
+    border-radius: 5%;
+    background: radial-gradient(rgba(30,10,100,.7),
+                                rgba(120,40,140,.5),
+                                rgba(30,60,160,.5));                             
+
+    .titulo{
+       color: white;
+       padding-top: 1em;
+       text-align: center;
+    }
+    .division{
+       
+       margin: 10em 2em; 
+       text-align: center;
+    }
+    td{
+        padding: 0.8em 0;
+    }
+    label{
+        padding: 0 .5em;
+        color: rgba(50, 100, 250, 1);
+    }
+    input{
+        border: none;
+        border-radius: 5%;
+        padding: .4em;
+    }
+}
